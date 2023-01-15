@@ -9,3 +9,6 @@ https://www.youtube.com/playlist?list=PLlvRDpXh1Se4wZWOWs8yapI8AS_fwDHzf
 
 Firebase Firestore documentation
 https://firebase.flutter.dev/docs/firestore/usage
+
+You can use the .apk file to directly install the app in your android device.
+
